@@ -1,0 +1,15 @@
+{
+  "name": "qa-workshop",
+  "version": "1.0.0",
+  "description": "this my homework front whit test cafe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ulisoa ulises francisco soto",
+  "license": "ISC",
+  "dependencies": {
+    "testcafe": "^1.14.2"
+  },
+  "devDependencies": {}
+}
